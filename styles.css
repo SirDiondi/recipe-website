@@ -2,11 +2,12 @@
     background-color: rgb(34, 39, 39);
     color: rgb(103, 114, 124);
     padding: 1%;
+    text-align: center;
     
 }
 
 body {
-    width: 500px;
+    width: 800px;
     margin: 0 auto;
 }
 
@@ -16,6 +17,7 @@ ol,
 li {
     background-color: rgb(25, 29, 29);
     color: rgb(161, 176, 190);
+    text-align: justify;
 }
 
 ul,
@@ -31,4 +33,12 @@ a {
 .description {
 
     text-align:justify;
+}
+
+h1 {
+    margin-bottom: -5px;
+}
+
+h3 {
+    margin-bottom: -15px;
 }
