@@ -1,16 +1,17 @@
 * {
     background-color: rgb(34, 39, 39);
-    color: rgb(135, 149, 161);
+    color: rgb(103, 114, 124);
+}
+a,
+p,
+li {
+    background-color: rgb(25, 29, 29);
+    color: rgb(161, 176, 190);
 }
 
 a {
     color: aliceblue;
 }
-
-p {
-    color: rgb(113, 124, 134);
-}
-
-li {
-    color: rgb(113, 124, 134);
+.description {
+    text-align:justify;
 }
