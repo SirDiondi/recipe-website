@@ -1,16 +1,27 @@
 * {
     background-color: rgb(34, 39, 39);
     color: rgb(103, 114, 124);
+
+    padding: 1%;
+    padding-right: 20%;
 }
-a,
+
 p,
+ul,
+ol,
 li {
     background-color: rgb(25, 29, 29);
     color: rgb(161, 176, 190);
 }
 
+ul,
+ol {
+    padding-left: 5%;
+}
+
 a {
     color: aliceblue;
+    background-color: transparent;
 }
 .description {
     text-align:justify;
