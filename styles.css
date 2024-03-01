@@ -6,7 +6,8 @@
 .card {
     display: block;
     background-color: rgb(22, 22, 22);
-    height: 800px;
+    height:fit-content;
+    border:15px solid rgb(45, 53, 53);
     
 }
 
@@ -24,6 +25,7 @@ li {
     background-color: rgb(47, 54, 54);
     color: rgb(161, 176, 190);
     text-align: justify;
+    margin: auto 15px;
 }
 
 ul,
@@ -48,11 +50,11 @@ img {
 }
 
 h3 {
-    margin-bottom: -15px;
+    margin-bottom: -5px;
 }
 
 .unorderedlist {
-    margin: 50px 2px;
+    margin: 50px 15px;
     padding: 20px 0px;
 
 }
